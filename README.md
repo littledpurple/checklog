@@ -1,2 +1,2 @@
 # checklog
-Simple Python scipt to check rsyslog logs
+Simple Python - Bash scipt to check if logs collected with rsyslog are fresh. 
